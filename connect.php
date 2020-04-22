@@ -20,8 +20,5 @@
      * echo $conn->connect_error;
      * **************************
      */
-    /**
-     * AppzStory Studio
-     * sClass สอนเขียนเว็บ 0 - 100
-     */
+    
 ?>
